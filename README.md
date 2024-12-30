@@ -1,4 +1,4 @@
-# Audio Merger GUI Application
+# Audio Merger
 
 This project is a simple graphical user interface (GUI) application for merging multiple audio files into one. It
 supports audio files in various formats (such as MP3, OGG, WAV), and exports the merged file in MP3 format with
